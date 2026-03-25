@@ -15,7 +15,7 @@ echo = ""
 
 
 # NeoVim link from github
-link=https://github.com/neovim/neovim/releases/download/v0.9.4/nvim-linux64.tar.gz
+link=https://github.com/neovim/neovim/releases/download/v0.11.6/nvim-linux-x86_64.tar.gz
 
 # Add bin to PATH
 # PATH=$PATH:/home/$USER/.local/bin
