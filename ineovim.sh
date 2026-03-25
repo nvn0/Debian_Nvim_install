@@ -55,11 +55,11 @@ wget -c $link
 
 echo = ""
 echo "Extracting..."
-tar xzvf nvim-linux64.tar.gz
+tar xzvf nvim-linux-x86_64.tar.gz
 
-rm -fr nvim-linux64.tar.gz
+rm -fr nvim-linux-x86_64.tar.gz
 
-ln -s ./nvim-linux64/bin/nvim ./nvim
+ln -s ./nvim-linux-x86_64/bin/nvim ./nvim
 
 
 echo = ""
